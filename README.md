@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lestherxm
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning about frontend and backend technologies stacks
-- 💞️ I’m looking to collaborate on a startup who wants smart people like me
-- 📫 How to reach me? You can send me an emal to `lestherxm@gmail.com`
+- 🌱 I’m currently learning about frontend and backend technologies stack
+- 💞️ I’m looking to collaborate on a startup who wants smart and funny people
+- 📫 How to reach me? You can send me an email to `lestherxm@gmail.com`
 
 <!---
 lestherxm/lestherxm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
