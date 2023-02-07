@@ -9,7 +9,7 @@
 
 - 📝 I'm taking courses at [Platzi](https://platzi.com/p/lestherxm/)
 
-- 📫 How to reach - **lestherxm@gmail.com**
+- 📫 You can reach me with this [email](mailto:lestherxm@gmail.com)
 
 - ⚡ Fun fact - **Do you want to know about fitness stuff or music? I am the right guy, too!**
 
