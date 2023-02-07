@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **software development**
 
-- 📝 I'm taking courses at Platzi [https://platzi.com/p/lestherxm/](https://platzi.com/p/lestherxm/)
+- 📝 I'm taking courses at [Platzi](https://platzi.com/p/lestherxm/)
 
 - 📫 How to reach - **lestherxm@gmail.com**
 
