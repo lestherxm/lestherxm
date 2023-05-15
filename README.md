@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lesther Xitumul Manuel</h1>
-<h3 align="center">A passionate FullStack Jr Developer from Guatemala</h3>
+<h1 align="center">Hello there! This is Lesther! :D</h1>
+<h3 align="center">A passionate Jr Developer from Guatemala</h3>
 
 - 🔭 I’m currently working on **my professional profile**
 
-- 🌱 I’m currently learning **PERN & PEAN** solution stacks
+- 🌱 I’m currently learning technologies solution stacks oriented to Web Development (JS and Python mainly)
 
 - 👯 I’m looking to collaborate on **software development**
 
