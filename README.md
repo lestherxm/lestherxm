@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my professional profile**
 
-- 🌱 I’m currently learning technologies solution stacks oriented to Web Development (JS and Python mainly)
+- 🌱 I’m currently learning technologies solution stacks oriented to Web Development (JS and PHP mainly)
 
 - 👯 I’m looking to collaborate on **software development**
 
