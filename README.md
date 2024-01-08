@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! This is Lesther! :D</h1>
 <h3 align="center">A passionate Jr Developer from Guatemala</h3>
 
-- 🔭 I’m currently working on **my professional profile**
+- 🔭 I’m currently working on **my professional profile** by improving my English and IT skills and experience
 
 - 🌱 I’m currently learning technologies solution stacks oriented to Web Development (JS and PHP mainly)
 
